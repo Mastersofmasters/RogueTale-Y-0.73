@@ -1,5 +1,5 @@
 ,,,,,,,,,,,
-0,SetMaxHp,120,,
+0,SetMaxHp,121,,
 0,Sound,Playerheal,,
 ,,,,,,,,,,,
 0,SansLegs,Sitting,,,,,,,,,
@@ -876,6 +876,7 @@
 0,SansAnimation,Idle,,,,,,,,,
 0,DamagePlayer,-200,,,
 3,EndAttack,,
+
 
 
 
